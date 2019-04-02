@@ -1,0 +1,44 @@
+angular
+----------
+1)index----->app---->service.ts ----> module.ts----->component.ts<----->template
+
+2) routing is help to navigate one view to another view with out browsing applicaction ,
+	import angular routermodule and connect the component paths to navigate one view to another view 
+	by clicking the related link
+3) through HttpClientModule we can interact with front end to backend
+
+4) Initialization of application components and module at point is bootstrapign 
+
+5) Httpclient is service to connect btw frontend to backend ,
+	http is helps to work the functions of its HttpclientModule like inbuild methods
+
+6) To animate the elements in browser css animation are for usefull by its element functionalitys like @keyframs
+7) In my project i done with forms and footers part and one component and its child components
+ 	with bootstrap framework
+8) by using mat tags in template and its api we have to import to build angular meterial design
+-------------------------------------------------------------------------------------------------
+Nodejs
+-------
+
+1) nodejs is server side code and it is non-blocking code , event rised functionality with its single threaded operation 
+
+2) it is singel threaded and asynchronus by this natur so that it will never stop  its request and response 
+	 if any blocking is there pass another one with out any fails , so it is fast and lightweight
+ 
+3) event loop is ready to rise another event by complitin of one event     
+
+4) callback function is raised at complition of given task , if there is no error was raised then first argument will pass as null 
+
+5) In nodejs asnychronous functions will return the sychronously by promis methods
+  
+6) a callback function is raised at the end of its link function execution,it will executed after its relative function 
+
+7) event emitters are used to transmit data from one component to another component and raise the events
+
+8) written of code with more nested callback functionalitys with that its callback hell is happens ,
+	by using the settime functionalitys we can avoid the callback hell 
+9) with required('') module we can connect the diffent modules like mongoos , express , jwt in nodejs to perform operations
+
+10) 
+	
+	 
